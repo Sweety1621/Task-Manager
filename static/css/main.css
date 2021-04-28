@@ -1,0 +1,41 @@
+body, html {
+    margin: 0;
+    margin-top: 20px;
+    font-family: sans-serif;
+    color: white;
+    background: rgb(130, 11, 241)
+}
+
+.content {
+    margin: 0 auto;
+    width: 500px;
+}
+
+table, td, th {
+    color: black;
+    background: whitesmoke;
+    margin-top: 50px;
+    border: 1px solid rgb(114, 110, 101);
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+form {
+    margin-top: 30px;
+}
+
+#content {
+    width: 80%;
+}
